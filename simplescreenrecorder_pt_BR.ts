@@ -1678,7 +1678,7 @@ Dica: Você também pode alterar este valor com a roda de rolagem do rato/mouse 
     <message>
         <location filename="../GUI/PageInput.cpp" line="444"/>
         <source>Backend:</source>
-        <translation>Backend:</translation>
+        <translation>Interface:</translation>
     </message>
     <message>
         <location filename="../GUI/PageInput.cpp" line="456"/>
