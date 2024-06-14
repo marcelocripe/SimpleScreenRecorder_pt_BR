@@ -31,7 +31,7 @@ $ sudo cp simplescreenrecorder.qm /usr/share/????
 
 "simplescreenrecorder.desktop":
 
-Comando para copiar o arquivo com a extensão ".desktop" para a pasta /usr/share/application.
+Comando para copiar o arquivo com a extensão ".desktop" para a pasta /usr/share/applications.
 
 $ sudo cp simplescreenrecorder.desktop /usr/share/applications
 
