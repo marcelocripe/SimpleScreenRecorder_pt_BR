@@ -2,9 +2,9 @@
 Categories=AudioVideo;Video;Recorder;Qt;
 Exec=simplescreenrecorder --logfile
 Icon=simplescreenrecorder
+StartupNotify=true
 Terminal=false
 Type=Application
-StartupNotify=true
 
 Name=Simple Screen Recorder
 Name[es]=Grabador de pantalla simple
