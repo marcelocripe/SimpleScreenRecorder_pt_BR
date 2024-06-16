@@ -26,7 +26,7 @@ $ lrelease simplescreenrecorder_pt_BR.ts
 
 Comando para copiar o arquivo da tradução com a extensão ".qm" para a pasta do idioma "pt_BR".
 
-$ sudo cp simplescreenrecorder_pt_BR.qm /usr/share/simplescreenrecorder/translations/
+$ sudo cp simplescreenrecorder_pt_BR.qm /usr/share/simplescreenrecorder/translations
 
 "simplescreenrecorder.desktop":
 
