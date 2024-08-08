@@ -24,6 +24,12 @@ $ sudo apt install qttools5-dev-tools
 
 $ lrelease simplescreenrecorder_pt_BR.ts
 
+
+Comando para renomear o arquivo antigo da tradução com a extensão ".mo" que está na pasta do idioma "pt_BR".
+
+$ sudo mv /usr/share/simplescreenrecorder/translations/simplescreenrecorder_pt_BR.qm /usr/share/simplescreenrecorder/translations/simplescreenrecorder_pt_BR_antigo.qm
+
+
 Comando para copiar o arquivo da tradução com a extensão ".qm" para a pasta do idioma "pt_BR".
 
 $ sudo cp simplescreenrecorder_pt_BR.qm /usr/share/simplescreenrecorder/translations
